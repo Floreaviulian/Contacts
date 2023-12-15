@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E996D6FD-C7F8-43AA-80B6-32F64B26046B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AF6F8D7-D158-4CCF-935B-38EE8B1482AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts/CustomTableCellTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "CustomTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6AF6F8D7-D158-4CCF-935B-38EE8B1482AD - 6d72ea5c9cec4baf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.imageCell.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "6AF6F8D7-D158-4CCF-935B-38EE8B1482AD - e2b5c6b82da01fbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.imageCell.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "6AF6F8D7-D158-4CCF-935B-38EE8B1482AD - 84d03bb757265126"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.imageCell.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6AF6F8D7-D158-4CCF-935B-38EE8B1482AD - 6dc8ee5fb7de3d86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.imageCell.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "6AF6F8D7-D158-4CCF-935B-38EE8B1482AD - 7c63a826ee006bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Contacts.CustomTableViewCell"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "6AF6F8D7-D158-4CCF-935B-38EE8B1482AD - 3292519ab3b983dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Contacts.CustomTableViewCell&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BD65453-E66F-4F77-AB1B-3698DDFBE2DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts/CustomTableCellTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CustomTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6BD65453-E66F-4F77-AB1B-3698DDFBE2DF - ee6bacfdaf024282"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.cellLabelText.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "6BD65453-E66F-4F77-AB1B-3698DDFBE2DF - 7fd019dbf4ffe69e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.cellLabelText.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "6BD65453-E66F-4F77-AB1B-3698DDFBE2DF - 66d9d1046c27a22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.cellLabelText.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6BD65453-E66F-4F77-AB1B-3698DDFBE2DF - 2ccd42c668e599b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.cellLabelText.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "6BD65453-E66F-4F77-AB1B-3698DDFBE2DF - 7c63a826ee0069d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Contacts.CustomTableViewCell"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "6BD65453-E66F-4F77-AB1B-3698DDFBE2DF - 3292519ab3b983fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Contacts.CustomTableViewCell&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "131">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C308953C-9230-4CB5-93C8-EE28FBF8174C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts/CustomTableCellTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CustomTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C308953C-9230-4CB5-93C8-EE28FBF8174C - 6d72ea5c9cec4baf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.imageCell.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "C308953C-9230-4CB5-93C8-EE28FBF8174C - e2b5c6b82da01fbb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.imageCell.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "C308953C-9230-4CB5-93C8-EE28FBF8174C - 84d03bb757265126"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.imageCell.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "C308953C-9230-4CB5-93C8-EE28FBF8174C - 6dc8ee5fb7de3d86"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.imageCell.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "C308953C-9230-4CB5-93C8-EE28FBF8174C - 7c63a826ee006bc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Contacts.CustomTableViewCell"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "C308953C-9230-4CB5-93C8-EE28FBF8174C - 3292519ab3b983dd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.CustomTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Contacts.CustomTableViewCell&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/CustomTableCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4A17FC0-DA1E-4788-814E-B8D83B296436"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts/ContactsClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchContacts(URL:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33FB30FB-2785-4DE2-9992-55DADEBF14B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts/ContactsClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "fetchContacts(URL:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFFC09AC-8C4D-4817-8CD4-81863A101254"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "tableView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BFFC09AC-8C4D-4817-8CD4-81863A101254 - b26425e196b79e11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.ViewController.data.getter : Swift.Array&lt;Contacts.Contact&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "BFFC09AC-8C4D-4817-8CD4-81863A101254 - 7ad091beb98f7265"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.ViewController.data.setter : Swift.Array&lt;Contacts.Contact&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "BFFC09AC-8C4D-4817-8CD4-81863A101254 - 8bee34edba16438"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.ViewController.data.modify : Swift.Array&lt;Contacts.Contact&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "BFFC09AC-8C4D-4817-8CD4-81863A101254 - 1858ea7f07966d81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.ViewController.data.modify : Swift.Array&lt;Contacts.Contact&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "BFFC09AC-8C4D-4817-8CD4-81863A101254 - 4bee300ff1da0944"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Contacts.ViewController"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  uuid = "BFFC09AC-8C4D-4817-8CD4-81863A101254 - b4dc2bff2bffd7ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Contacts.ViewController&gt;"
+                  moduleName = "Contacts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/floreaiulian/Documents/Work/Contacts/Contacts/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "159">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF869C91-E2E7-44F0-A4A9-10577847D4AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "isValidContact()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
